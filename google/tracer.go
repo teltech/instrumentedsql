@@ -5,7 +5,7 @@ import (
 
 	"cloud.google.com/go/trace"
 
-	"github.com/ExpansiveWorlds/instrumentedsql"
+	"github.com/teltech/instrumentedsql"
 )
 
 type tracer struct{}

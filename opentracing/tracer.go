@@ -5,7 +5,7 @@ import (
 
 	"github.com/opentracing/opentracing-go"
 
-	"github.com/ExpansiveWorlds/instrumentedsql"
+	"github.com/teltech/instrumentedsql"
 )
 
 type tracer struct{}
